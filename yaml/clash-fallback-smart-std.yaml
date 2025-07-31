@@ -4,9 +4,9 @@
 
 # 机场节点订阅
 
-proxy-providers:
+代理提供商：
 
-  126:
+  火烧:
     url: "https://126game.cc/v/TZQN3"
     type: http
     interval: 86400
@@ -15,7 +15,8 @@ proxy-providers:
       url: https://www.gstatic.com/generate_204
       interval: 180
     proxy: 直连 
-  GeoFile:
+
+    冰云：
     url: "https://fast.fp-will.xyz/"
     type: http
     interval: 86400
